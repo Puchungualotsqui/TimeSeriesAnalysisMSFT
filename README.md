@@ -9,6 +9,7 @@ We made in group a time series analysis using the price of the microsoft stock.
 ![image](https://github.com/user-attachments/assets/9862f55c-a05b-4838-a4a9-99033aeed957)
 ## We made a Decomposition of the time serie
 We got the trend, seasonal and trend.
+
 ![image](https://github.com/user-attachments/assets/e2196dca-1427-4b40-a1e6-669090abded2)
 ## Predictive model
 We used an LSTM model taking the price of the last 60 days.
