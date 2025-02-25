@@ -1,6 +1,6 @@
 # Time Series Analysis
 ## Microsoft Stock
-We made in group a time series analysis using the price of the microsoft stock.
+My team made a time series analysis using the price of the microsoft stock.
 ### Microsoft Stock Price
 ![image](https://github.com/user-attachments/assets/dd561b89-bfeb-4179-8479-e3649239fb4c)
 ### Cumulative Microsoft Stock Price
